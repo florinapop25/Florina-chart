@@ -1,7 +1,7 @@
-.qv-object-Singapore div.qv-object-content-container {
+.qv-object-Florina div.qv-object-content-container {
 	overflow: auto;
 }
-.qv-object-Singapore .myelement {
+.qv-object-Florina .myelement {
     font-weight: normal;
     width: 100px;
     float: left;
@@ -15,11 +15,11 @@
 	border: 1px solid #b3b3b3;
 	position: relative;
 }
-.qv-object-Singapore button {
+.qv-object-Florina button {
 	width: 100%;
 }
 
-.qv-object-Singapore .tooltiptext {
+.qv-object-Florina .tooltiptext {
   visibility: hidden;
   width: 120px;
   background-color: #333;
@@ -33,7 +33,7 @@
   left: 50%;
   margin-left: -60px;  
 }
-.qv-object-Singapore .tooltiptext::after {
+.qv-object-Florina .tooltiptext::after {
   content: "";
   position: absolute;
   top: 100%;
