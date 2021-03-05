@@ -1,2 +1,0 @@
-# Singapore-chart
-Qlik
