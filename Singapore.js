@@ -25,7 +25,7 @@ define( ["qlik","jquery", "text!./style.css", "text!./template.html"], function 
 				measures : {
 					uses : "measures",
 					min : 0,
-					max : 2
+					max : 1
 				},
 				sorting : {
 					uses : "sorting"
