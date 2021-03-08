@@ -20,7 +20,7 @@ define( ["qlik","jquery", "text!./style.css", "text!./template.html"], function 
 				dimensions : {
 					uses : "dimensions",
 					min : 1,
-					max : 1
+					max : 2
 				},
 				measures : {
 					uses : "measures",
